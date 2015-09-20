@@ -1,0 +1,1 @@
+Index.PACKAGES = {"com" : [], "com.one" : [{"case class" : "com\/one\/RpcClient.html", "name" : "com.one.RpcClient"}]};
