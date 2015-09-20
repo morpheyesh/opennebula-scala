@@ -1,0 +1,2 @@
+# opennebula-scala
+OpenNebula API 
