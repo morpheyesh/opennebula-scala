@@ -9,10 +9,11 @@ def rpcClientCreation() {
 
 }
 
-val client = new RpcClient("http", "localhost", 3000, "/RPC2", "yesh", "test")
+val client = new RpcClient("http", "localhost", 8999, "/", "yesh", "test")
 println("endedd---?")
-println(client)
-client.Call()
+println(client.config)
+println(client.client)
+//client.Call(config)
 
 
 }
